@@ -1,0 +1,6 @@
+{
+  "name": "影片壓縮與轉檔工具",
+  "description": "完全在瀏覽器端本地進行的影片壓縮與格式轉換工具，檔案不會離開您的裝置，安全且快速。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
